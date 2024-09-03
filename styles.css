@@ -1,0 +1,19 @@
+.img{
+    height: 100%;
+    width: 20%;
+}
+footer a{
+    text-decoration: none;
+}
+footer {
+    color: antiquewhite;
+}
+a nav-link {
+    font-weight: bold;
+}
+.carousel2{
+    margin-bottom: 40px;
+    width: auto;
+    height: auto !important;
+    align-items: center;
+}
